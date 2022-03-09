@@ -1,0 +1,14 @@
+<html>
+   <head>
+      <title>kenna world</title>
+      <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+      <h1 class="reverse">kenna World</h1>
+      <p>
+          This is my website, you can learn a lot about my personal life here. I have many interesting things about me, including I play a lot of sports, I love drawing, and i love listening to music.
+        </p>
+        <p>I am a sophomore and I want to be a nurse when I am older. Once I graduate college I want to travel a lot and I would love to be a travel nurse.</p>
+        <img src="unnamed.jpg">
+    </body>
+</html>
